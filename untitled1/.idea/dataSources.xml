@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Greenplum - postgres@10.3.11.44" uuid="bfea0c17-e3d8-4a56-9f8f-8b67a1eaab3d">
+      <driver-ref>greenplum</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.3.11.44:5432/postgres</jdbc-url>
+    </data-source>
+  </component>
+</project>
