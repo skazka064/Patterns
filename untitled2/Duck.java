@@ -1,5 +1,5 @@
 public abstract class Duck {
-    FlyBehavior flyBehavior;
+     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
     public Duck(){
 
